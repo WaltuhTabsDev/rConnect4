@@ -22,7 +22,7 @@ Only tapping to play
 
 ### Screenshots
 
-![$(rConnect4)](screenshots/screenshot001.png "$(rConnect4)")
+![$(rConnect4)](screenshots/screenshot001.PNG "$(rConnect4)")
 
 ### Developers
 

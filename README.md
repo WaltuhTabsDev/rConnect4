@@ -1,26 +1,24 @@
------------------------------------
 
------------------------------------
 
-## $(Game Title)
+## rConnect4
 
 ![$(rConnect4)](screenshots/screenshot000.png "$(rConnect4)")
 
 ### Description
 
-$(A game for the Raylib gamejam NEXT)
+A game for the Raylib Gamejam NEXT
 
 ### Features
 
- - $(Uses only 8 color palette)
- - $(Under 3 mb)
- - $(Supports WASM)
+ - Uses only 8 color palette
+ - Under 3 mb
+ - Supports WASM
 
 ### Controls
 
 Keyboard/Mouse:
- - $(Only tapping to play)
- - $(1-2 to select modes in title)
+Only tapping to play
+ - 1-2 to select modes in title
 
 ### Screenshots
 
@@ -28,7 +26,7 @@ Keyboard/Mouse:
 
 ### Developers
 
- - $(Tabs) - $(Me, everything :D)
+ - Tabs - Me, everything :D
 
 ### Links
 
